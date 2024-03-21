@@ -1,0 +1,67 @@
+[
+	{
+		"id": "e2f87926-0eff-422c-8698-2bee68bd1534",
+		"createdAt": "1694685483333",
+		"updatedAt": "1694685483333",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"carModel": "F‑PACE R‑DYNAMIC SE",
+		"exteriorColour": "Firenze Red",
+		"seatColour": "Mars Red",
+		"seatMaterial": "Windsor Performance",
+		"interiorColour": "Mars Red",
+		"interiorMaterial": "Aluminium"
+	},
+	{
+		"id": "d247ba8b-5cb0-4ac5-bd65-654d3404b212",
+		"createdAt": "1694685347887",
+		"updatedAt": "1694685347887",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"carModel": "F‑PACE R‑DYNAMIC S",
+		"exteriorColour": "Portofino Blue",
+		"seatColour": "Mars Red",
+		"seatMaterial": "DuoLeather",
+		"interiorColour": "Mars Red",
+		"interiorMaterial": "Aluminium"
+	},
+	{
+		"id": "ce21b0cf-ff8c-4df9-ae2e-02c79ba1989d",
+		"createdAt": "1694685202397",
+		"updatedAt": "1694685202397",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"carModel": "F‑PACE R‑DYNAMIC S",
+		"exteriorColour": "Firenze Red",
+		"seatColour": "Light Oyster",
+		"seatMaterial": "Windsor Performance",
+		"interiorColour": "Light Oyster",
+		"interiorMaterial": "Charcoal Ash"
+	},
+	{
+		"id": "37d9ecb8-9233-4b5f-83a4-f00e3e79d1f8",
+		"createdAt": "1694685347887",
+		"updatedAt": "1694685347887",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"carModel": "F‑PACE R‑DYNAMIC S",
+		"exteriorColour": "Eiger Grey",
+		"seatColour": "Light Oyster",
+		"seatMaterial": "Windsor Sport",
+		"interiorColour": "Light Oyster",
+		"interiorMaterial": "Charcoal Ash"
+	},
+	{
+		"id": "30287d56-f8e2-4896-9599-224f10685cd8",
+		"createdAt": "1694685483333",
+		"updatedAt": "1694685483333",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"carModel": "F‑PACE R‑DYNAMIC SE",
+		"exteriorColour": "Portofino Blue",
+		"seatColour": "Ebony",
+		"seatMaterial": "DuoLeather",
+		"interiorColour": "Ebony",
+		"interiorMaterial": "Charcoal Ash"
+	}
+]

@@ -1,0 +1,6 @@
+if (typeof leadTime === "undefined" || leadTime === null || leadTime === "") { return; }  
+var formattedText = leadTime;
+
+formattedText = "Lead Time: " + formattedText;
+
+return formattedText;

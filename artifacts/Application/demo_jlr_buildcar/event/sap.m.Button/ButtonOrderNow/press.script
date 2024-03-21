@@ -1,0 +1,17 @@
+console.log("Filter Table Options:");
+console.log(filterTableBuilder);
+
+console.log("Car Model Object:");
+console.log(modelpageMasterBuild.getData());
+
+var options = {
+    parameters: {
+        where: JSON.stringify({"carModel": modelpageMasterBuild.getData().carModel}), // Optional
+        select: "", // Optional
+        take: "", // Optional
+        skip: "", // Optional
+        order: "", // Optional
+    },
+};
+
+apioRestAPIjaguarCarsModel_Availabe_GET(options);

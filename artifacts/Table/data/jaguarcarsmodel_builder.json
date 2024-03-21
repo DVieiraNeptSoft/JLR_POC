@@ -1,0 +1,296 @@
+[
+	{
+		"id": "3a69ca9a-3462-4cef-99cb-09e04d98b053",
+		"createdAt": "1694682995731",
+		"updatedAt": "1694683750458",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"carModel": "F‑PACE R‑DYNAMIC S",
+		"carModelExteriorBuilder": [
+			{
+				"Colour": "White",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/paint/pnt_f-pace_k24_n-1aa-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/White.png"
+			},
+			{
+				"Colour": "Santorini Black",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/paint/pnt_f-pace_k24_n-1ag-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Santorini%20Black.png"
+			},
+			{
+				"Colour": "Firenze Red",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/paint/pnt_f-pace_k24_n-1af-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Firenze%20Red.png"
+			},
+			{
+				"Colour": "Eiger Grey",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/paint/pnt_f-pace_k24_n-1df-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Eiger%20Grey.png"
+			},
+			{
+				"Colour": "Portofino Blue",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/paint/pnt_f-pace_k24_n-1dg-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Portofino%20Blue.png"
+			},
+			{
+				"Colour": "Ostuni Pearl White",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/paint/pnt_f-pace_k24_n-1ej-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Ostuni%20Pearl%20White.png"
+			}
+		],
+		"carModelInteriorBuilder": [
+			{
+				"Type": "Seat",
+				"Material": "DuoLeather",
+				"Colour": "Ebony",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301ye-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Ebony%20DuoLeather.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "DuoLeather",
+				"Colour": "Light Oyster",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301yf-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Light%20Oyster%20DuoLeather.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "DuoLeather",
+				"Colour": "Mars Red",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301yg-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Mars%20Red%20DuoLeather.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "Windsor Performance",
+				"Colour": "Ebony",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301ye-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Ebony%20Performance.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "Windsor Performance",
+				"Colour": "Light Oyster",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301yf-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Light%20Oyster%20Performance.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "Windsor Performance",
+				"Colour": "Mars Red",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301yg-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Mars%20Red%20Performance.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "Windsor Sport",
+				"Colour": "Ebony",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301ye-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Ebony%20Sport.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "Windsor Sport",
+				"Colour": "Light Oyster",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301yf-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Light%20Oyster%20Sport.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "Windsor Sport",
+				"Colour": "Mars Red",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301yg-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Mars%20Red%20Sport.png"
+			},
+			{
+				"Type": "Interior",
+				"Material": "Aluminium",
+				"Colour": "Ebony",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/intfeat/int_f-pace_k24_n-088tn-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Ebony%20-%20Aluminium.png"
+			},
+			{
+				"Type": "Interior",
+				"Material": "Aluminium",
+				"Colour": "Light Oyster",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/intfeat/int_f-pace_k24_n-088tn-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Light%20Oyster%20-%20Aluminium.png"
+			},
+			{
+				"Type": "Interior",
+				"Material": "Aluminium",
+				"Colour": "Mars Red",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/intfeat/int_f-pace_k24_n-088tn-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Mars%20Red%20-%20Aluminium.png"
+			},
+			{
+				"Type": "Interior",
+				"Material": "Charcoal Ash",
+				"Colour": "Ebony",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/intfeat/int_f-pace_k24_n-088km-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Ebony%20-%20Charcoal%20Ash.png"
+			},
+			{
+				"Type": "Interior",
+				"Material": "Charcoal Ash",
+				"Colour": "Light Oyster",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/intfeat/int_f-pace_k24_n-088km-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Light%20Oyster%20-%20Charcoal%20Ash.png"
+			},
+			{
+				"Type": "Interior",
+				"Material": "Charcoal Ash",
+				"Colour": "Mars Red",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/intfeat/int_f-pace_k24_n-088km-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20S/Mars%20Red%20-%20Charcoal%20Ash.png"
+			}
+		]
+	},
+	{
+		"id": "34609a9c-f314-409a-b9fc-a268b6577088",
+		"createdAt": "1694526624736",
+		"updatedAt": "1694529070058",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"carModel": "F‑PACE R‑DYNAMIC SE",
+		"carModelExteriorBuilder": [
+			{
+				"Colour": "White",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/paint/pnt_f-pace_k24_n-1aa-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/White.png"
+			},
+			{
+				"Colour": "Santorini Black",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/paint/pnt_f-pace_k24_n-1ag-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Santorini%20Black.png"
+			},
+			{
+				"Colour": "Firenze Red",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/paint/pnt_f-pace_k24_n-1af-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Firenze%20Red.png"
+			},
+			{
+				"Colour": "Eiger Grey",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/paint/pnt_f-pace_k24_n-1df-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Eiger%20Grey.png"
+			},
+			{
+				"Colour": "Portofino Blue",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/paint/pnt_f-pace_k24_n-1dg-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Portofino%20Blue.png"
+			},
+			{
+				"Colour": "Ostuni Pearl White",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/paint/pnt_f-pace_k24_n-1ej-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Ostuni%20Pearl%20White.png"
+			}
+		],
+		"carModelInteriorBuilder": [
+			{
+				"Type": "Seat",
+				"Material": "DuoLeather",
+				"Colour": "Ebony",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301ye-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Ebony%20DuoLeather.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "DuoLeather",
+				"Colour": "Light Oyster",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301yf-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Light%20Oyster%20DuoLeather.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "DuoLeather",
+				"Colour": "Mars Red",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301yg-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Mars%20Red%20DuoLeather.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "Windsor Performance",
+				"Colour": "Ebony",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301ye-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Ebony%20Performance.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "Windsor Performance",
+				"Colour": "Light Oyster",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301yf-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Light%20Oyster%20Performance.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "Windsor Performance",
+				"Colour": "Mars Red",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301yg-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Mars%20Red%20Performance.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "Windsor Sport",
+				"Colour": "Ebony",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301ye-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Ebony%20Sport.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "Windsor Sport",
+				"Colour": "Light Oyster",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301yf-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Light%20Oyster%20Sport.png"
+			},
+			{
+				"Type": "Seat",
+				"Material": "Windsor Sport",
+				"Colour": "Mars Red",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/interior/int_f-pace_k24_n-301yg-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Mars%20Red%20Sport.png"
+			},
+			{
+				"Type": "Interior",
+				"Material": "Aluminium",
+				"Colour": "Ebony",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/intfeat/int_f-pace_k24_n-088tn-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Ebony%20-%20Aluminium.png"
+			},
+			{
+				"Type": "Interior",
+				"Material": "Aluminium",
+				"Colour": "Light Oyster",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/intfeat/int_f-pace_k24_n-088tn-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Light%20Oyster%20-%20Aluminium.png"
+			},
+			{
+				"Type": "Interior",
+				"Material": "Aluminium",
+				"Colour": "Mars Red",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/intfeat/int_f-pace_k24_n-088tn-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Mars%20Red%20-%20Aluminium.png"
+			},
+			{
+				"Type": "Interior",
+				"Material": "Charcoal Ash",
+				"Colour": "Ebony",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/intfeat/int_f-pace_k24_n-088km-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Ebony%20-%20Charcoal%20Ash.png"
+			},
+			{
+				"Type": "Interior",
+				"Material": "Charcoal Ash",
+				"Colour": "Light Oyster",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/intfeat/int_f-pace_k24_n-088km-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Light%20Oyster%20-%20Charcoal%20Ash.png"
+			},
+			{
+				"Type": "Interior",
+				"Material": "Charcoal Ash",
+				"Colour": "Mars Red",
+				"IconColour": "https://assets.config.jaguar.com/jag2/f-pace/k24/intfeat/int_f-pace_k24_n-088km-sml.jpg?v=4ar18",
+				"Image": "https://gtmdemosystem.neptune-software.cloud/media/root/JLR_POC/F-PACE%20R-DYNAMIC%20SE/Mars%20Red%20-%20Charcoal%20Ash.png"
+			}
+		]
+	}
+]

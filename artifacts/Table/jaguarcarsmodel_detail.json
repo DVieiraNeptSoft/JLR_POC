@@ -1,0 +1,108 @@
+{
+	"id": "0f873ef7-3c4e-ee11-9937-0022489a57c0",
+	"createdAt": "2023-09-08T11:43:47.156Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"fields": [
+		{
+			"id": "b11d5ac0-f114-46bb-828a-ba7a9db60136",
+			"fieldName": "carID",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "4836e44e-503d-478d-89ce-3bc4cd7506de",
+			"fieldName": "carImage",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "c9e23b5e-673a-4b2e-cd40-adb4ceaa8dfa",
+			"fieldName": "carModel",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "fded1042-eb09-4c7b-98f1-2bd4be34d8a6",
+			"fieldName": "carModelDescription",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "fc8e1812-1584-4513-9c3f-916cc87b5556",
+			"fieldName": "carAcceleration",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "fa8c7160-ca71-44d1-d78f-56d6eb782062",
+			"fieldName": "carSpecs",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "ac76f899-0e93-4411-9bd6-73d1557c914f",
+			"fieldName": "carAutonomy",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "436da8ff-1c86-4846-9318-d265beae5eae",
+			"fieldName": "carConsumption",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "2de0e9b7-58a2-460c-ab44-88075c783a28",
+			"fieldName": "carEmission",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "4f45a679-3882-4e62-fe6c-5edca6339447",
+			"fieldName": "carDetails",
+			"fieldType": "json",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "8dfec525-a962-496a-dde1-afd75b7c811f",
+			"fieldName": "carPrice",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "c2d6eaa5-91e6-4b38-f0de-8ea3557e3c39",
+			"fieldName": "carTypeConsumption",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "df486b4d-32ef-4d67-ec32-fb99b9ae68ca",
+			"fieldName": "carPriceNumeric",
+			"fieldType": "decimal",
+			"isUnique": false,
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "jaguarcarsmodel_detail",
+	"description": "Table with available detail of model Cars",
+	"ver": "24.3.21.1550",
+	"enableAudit": true,
+	"includeDataInPackage": true,
+	"package": "081fbf84-374e-ee11-9937-0022489a57c0",
+	"rolesRead": [],
+	"rolesWrite": []
+}

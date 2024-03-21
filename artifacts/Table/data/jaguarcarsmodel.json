@@ -1,0 +1,62 @@
+[
+	{
+		"id": "b4ea89e1-7ff5-45d1-9229-50c0f6399122",
+		"createdAt": "1694424817249",
+		"updatedAt": "1694424817249",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"carType": "SALOON AND SPORTBRAKE",
+		"carModel": [
+			{
+				"carID": "saloon-01",
+				"carImage": "https://www.jaguar.com/content/dam/jdx/global/entry-points/24my/X76024GL_303101393_041_DX_ENTRY.jpg/jcr:content/renditions/cq5dam.thumbnail.140.100.png.res/JLRHASHEC78B3EDD87B5DC04C8A191F4B442C73C2F550EE/cq5dam.thumbnail.140.100.png",
+				"carModelName": "JAGUAR XE"
+			},
+			{
+				"carID": "saloon-02",
+				"carImage": "https://www.jaguar.com/content/dam/jdx/global/entry-points/24my/X26024GL_303101393_048_DX_ENTRY.jpg/jcr:content/renditions/cq5dam.thumbnail.140.100.png.res/JLRHASH4F5709D5C79B8AA10FB0E7267EDAD2B41E315D4E/cq5dam.thumbnail.140.100.png",
+				"carModelName": "JAGUAR XF"
+			}
+		]
+	},
+	{
+		"id": "91a78d45-fdaf-4c84-be86-556ef4c8c50a",
+		"createdAt": "1694424649842",
+		"updatedAt": "1694424649842",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"carType": "SUV",
+		"carModel": [
+			{
+				"carID": "suv-01",
+				"carImage": "https://www.jaguar.com/content/dam/jdx/global/entry-points/24my/X59024GL_303101393_047_DX_ENTRY.jpg/jcr:content/renditions/cq5dam.thumbnail.140.100.png.res/JLRHASHA8D246009DFB7EAB572052BCC5799AB24EA891AF/cq5dam.thumbnail.140.100.png",
+				"carModelName": "JAGUAR I-PACE"
+			},
+			{
+				"carID": "suv-02",
+				"carImage": "https://www.jaguar.com/content/dam/jdx/global/entry-points/24my/X76124GL_303101393_059_DX_ENTRY.jpg/jcr:content/renditions/cq5dam.thumbnail.140.100.png.res/JLRHASHDC7EF53D6B2021D21BC566FA54AFA7F9D2BA5F6B/cq5dam.thumbnail.140.100.png",
+				"carModelName": "JAGUAR F-PACE"
+			},
+			{
+				"carID": "suv-03",
+				"carImage": "https://www.jaguar.com/content/dam/jdx/global/entry-points/24my/X54024GL_303101393_043_DX_ENTRY.jpg/jcr:content/renditions/cq5dam.thumbnail.140.100.png.res/JLRHASHEFEF6C13FCB87F93126B159BED5635BA0B8908E2/cq5dam.thumbnail.140.100.png",
+				"carModelName": "JAGUAR E-PACE"
+			}
+		]
+	},
+	{
+		"id": "85da48e3-8632-44ec-a827-39571065a374",
+		"createdAt": "1694424895952",
+		"updatedAt": "1694424895952",
+		"createdBy": "daniel.vieira@neptune-software.com",
+		"updatedBy": "daniel.vieira@neptune-software.com",
+		"carType": "SPORTS CAR",
+		"carModel": [
+			{
+				"carID": "sports-01",
+				"carImage": "https://www.jaguar.com/content/dam/jdx/global/entry-points/24my/X15224GL_303101393_049_DX_ENTRY.jpg/jcr:content/renditions/cq5dam.thumbnail.140.100.png.res/JLRHASHE790494FFB49A7B8B063949F10DA54BF84F1FF5C/cq5dam.thumbnail.140.100.png",
+				"carModelName": "JAGUAR F-TYPE"
+			}
+		]
+	}
+]

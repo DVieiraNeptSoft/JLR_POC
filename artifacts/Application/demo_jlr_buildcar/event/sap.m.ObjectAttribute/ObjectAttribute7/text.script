@@ -1,0 +1,16 @@
+if (
+    typeof carTypeConsumption === "undefined" ||
+    carTypeConsumption === null ||
+    carTypeConsumption === ""
+) {
+    return;
+}
+var formattedText = carTypeConsumption;
+
+if (formattedText === "Eletric"){
+    formattedText = "Electrical consumption (Weighted utility factor) (kWh/100 km)";
+} else {
+    formattedText = "Fuel consumption according to WLTP (l/100km)";
+}
+
+return formattedText;

@@ -1,0 +1,31 @@
+{
+	"id": "afadb4fe-3a4e-ee11-9937-0022489a57c0",
+	"createdAt": "2023-09-08T11:29:40.433Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"fields": [
+		{
+			"id": "f13036af-6e4a-4d5d-c4fd-bb2a0cb87925",
+			"fieldName": "carType",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "be488d13-cd90-47d9-a6bb-64a407c31286",
+			"fieldName": "carModel",
+			"fieldType": "json",
+			"isUnique": false,
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "jaguarcarsmodel",
+	"description": "Table with available model Cars",
+	"ver": "24.3.21.1549",
+	"enableAudit": true,
+	"includeDataInPackage": true,
+	"package": "081fbf84-374e-ee11-9937-0022489a57c0",
+	"rolesRead": [],
+	"rolesWrite": []
+}

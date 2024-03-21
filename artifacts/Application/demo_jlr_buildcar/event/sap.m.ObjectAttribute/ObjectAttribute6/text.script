@@ -1,0 +1,16 @@
+if (
+    typeof carTypeConsumption === "undefined" ||
+    carTypeConsumption === null ||
+    carTypeConsumption === ""
+) {
+    return;
+}
+var formattedText = carTypeConsumption;
+
+if (formattedText === "Eletric"){
+    formattedText = "Electric range - combined cycle (WLTP) (km/h)";
+} else {
+    formattedText = "CO₂ emissions according to WLTP (g/km)";
+}
+
+return formattedText;

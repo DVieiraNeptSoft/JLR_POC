@@ -1,0 +1,38 @@
+{
+	"id": "fc2b819f-7251-ee11-9937-0022489a57c0",
+	"createdAt": "2023-09-12T13:45:26.093Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"fields": [
+		{
+			"id": "b23531a9-366b-4365-c878-b3f06831d5c1",
+			"fieldName": "carModel",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "0cfdf1ff-4c58-491a-e473-2934266c1ecd",
+			"fieldName": "carModelExteriorBuilder",
+			"fieldType": "json",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "22bd7b5f-224c-45a6-cb84-d8f374fc2c21",
+			"fieldName": "carModelInteriorBuilder",
+			"fieldType": "json",
+			"isUnique": false,
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "jaguarcarsmodel_builder",
+	"description": null,
+	"ver": "24.3.21.1550",
+	"enableAudit": true,
+	"includeDataInPackage": true,
+	"package": "081fbf84-374e-ee11-9937-0022489a57c0",
+	"rolesRead": [],
+	"rolesWrite": []
+}

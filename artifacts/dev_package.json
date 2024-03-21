@@ -1,0 +1,90 @@
+{
+	"id": "081fbf84-374e-ee11-9937-0022489a57c0",
+	"createdAt": "2023-09-08T11:04:46.240Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/DVieiraNeptSoft/JLR_POC"
+	},
+	"name": "JLR_POC",
+	"description": "Jaguar POC Package",
+	"ver": "24.3.21.1451",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "89814115-8450-ee11-9937-0022489a57c0",
+			"application": "demo_jlr_buildcar",
+			"title": "",
+			"description": "",
+			"package": {
+				"id": "081FBF84-374E-EE11-9937-0022489A57C0"
+			}
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [
+		{
+			"id": "fc2b819f-7251-ee11-9937-0022489a57c0",
+			"name": "jaguarcarsmodel_builder",
+			"description": null
+		},
+		{
+			"id": "afadb4fe-3a4e-ee11-9937-0022489a57c0",
+			"name": "jaguarcarsmodel",
+			"description": "Table with available model Cars"
+		},
+		{
+			"id": "38dc7d68-3e52-ee11-9937-0022489a57c0",
+			"name": "jaguarcarsmodel_available",
+			"description": null
+		},
+		{
+			"id": "0f873ef7-3c4e-ee11-9937-0022489a57c0",
+			"name": "jaguarcarsmodel_detail",
+			"description": "Table with available detail of model Cars"
+		}
+	],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "92c2159f-1153-ee11-9937-0022489a57c0",
+			"description": null,
+			"name": "jlr_buildYourOwnCar_tile"
+		}
+	],
+	"category": [
+		{
+			"id": "99a955c5-1153-ee11-9937-0022489a57c0",
+			"description": null,
+			"name": "jrl_tilegroup"
+		}
+	],
+	"launchpad": [
+		{
+			"id": "192b0e49-1353-ee11-9937-0022489a57c0",
+			"name": "jlr_launchpad",
+			"description": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": []
+}

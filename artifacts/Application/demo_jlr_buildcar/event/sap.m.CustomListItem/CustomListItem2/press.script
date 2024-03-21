@@ -1,0 +1,17 @@
+// Replace yourField with FieldName
+const context = oEvent.oSource.getBindingContext();  
+
+// Get Single Field
+const value = context.getProperty("carID");
+
+var options = {
+    parameters: {
+        "where": JSON.stringify({"carID": value}), // Optional 
+        "select": "", // Optional 
+        "take": "", // Optional 
+        "skip": "", // Optional 
+        "order": "" // Optional 
+    }
+};
+
+apioRestAPIjaguarCarsModel_Detail_GET(options);

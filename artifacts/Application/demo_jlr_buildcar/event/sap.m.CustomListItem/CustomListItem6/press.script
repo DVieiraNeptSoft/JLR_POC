@@ -1,0 +1,21 @@
+// Get Binding Context
+
+// Replace yourField with FieldName
+const context = oEvent.oSource.getBindingContext();
+
+// Get Entire Model
+const carInteriorData = context.getObject();
+
+filterTableBuilder.interiorMaterial = carInteriorData.carInteriorColourText;
+
+generateBuilderData(filterTableBuilder, "Interior", "Car Interior");
+
+totalPrice.carInteriorPrice = parseFloat(carInteriorData.carInteriorColourPrice2);
+
+debugger;
+
+var calctotalPrice = parseFloat(totalPrice.totalPrice) + parseFloat(totalPrice.carInteriorPrice);
+
+totalPrice.totalPrice = calctotalPrice;
+
+carPrice.setText("Total Cost: " + calctotalPrice + ",00€");

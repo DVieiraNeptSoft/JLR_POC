@@ -1,0 +1,44 @@
+// Get Binding Context
+
+// Replace yourField with FieldName
+const context = oEvent.oSource.getBindingContext();
+
+// Get Entire Model
+const builderData = context.getObject();
+
+var carModel = modelpageMasterBuild.getData().carModel;
+
+filterTableBuilder.carModel = carModel;
+filterTableBuilder.exteriorColour = builderData.exteriorColourText;
+
+generateBuilderData(filterTableBuilder, "Exterior");
+
+totalPrice.originalPrice = parseFloat(modelpageMasterBuild.getData().carPriceNumeric);
+
+var diffPrice;
+
+if (builderData.exteriorColourText === "White") {
+    // carPrice.setText("Total Cost: " + totalPrice.originalPrice + ",00€");
+
+    debugger;
+    if (totalPrice.totalPrice !== "") {
+        diffPrice = totalPrice.totalPrice - totalPrice.originalPrice;
+
+        totalPrice.totalPrice = totalPrice.totalPrice - diffPrice;
+
+        carPrice.setText("Total Cost: " + totalPrice.totalPrice + ",00€");
+    } else {
+        totalPrice.totalPrice = totalPrice.originalPrice;
+
+        carPrice.setText("Total Cost: " + totalPrice.totalPrice + ",00€");
+    }
+} else {
+    totalPrice.exteriorPrice = parseFloat(builderData.exteriorColourPrice2);
+
+    var calctotalPrice =
+        parseFloat(totalPrice.originalPrice) + parseFloat(totalPrice.exteriorPrice);
+
+    totalPrice.totalPrice = calctotalPrice;
+
+    carPrice.setText("Total Cost: " + calctotalPrice + ",00€");
+}

@@ -1,0 +1,52 @@
+.carListDetail ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sapFCard {
+  margin-bottom: 8px;
+}
+
+.carListHboxTop {
+  border-top: 1px solid #dedede !important;
+  border-width: 100% !important;
+}
+
+.carListHboxBottom {
+  border-bottom: 1px solid #dedede !important;
+}
+
+.sapMObjectAttributeDiv .sapMText,
+.sapMObjectAttributeDiv .sapMObjectAttributeTitle,
+.sapMObjectAttributeDiv .sapMObjectAttributeColon,
+.sapMObjectAttributeDiv .sapMObjectAttributeText {
+  font-size: 10px;
+  color: rgba(68, 68, 68, 0.8);
+}
+
+.marginVbox {
+  margin-left: 30px;
+}
+
+.marginVbox2 {
+  margin-left: 16px;
+}
+
+.listExteriorColours ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.listExteriorColoursFontSize {
+  font-size: 12px !important;
+}
+
+.listInteriorSeatColours ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.sapMLIBFocusable:focus {
+  outline: none;
+  outline-offset: none;
+}

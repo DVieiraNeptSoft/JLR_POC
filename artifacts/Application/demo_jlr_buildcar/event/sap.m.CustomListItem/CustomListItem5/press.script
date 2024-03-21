@@ -1,0 +1,21 @@
+// Get Binding Context
+
+// Replace yourField with FieldName
+const context = oEvent.oSource.getBindingContext();
+
+// Get Entire Model
+const seatData = context.getObject();
+
+filterTableBuilder.seatColour = seatData.seatColourText;
+
+generateBuilderData(filterTableBuilder, "Interior", "Seats");
+
+totalPrice.seatPrice = parseFloat(seatData.seatColourPrice2);
+
+debugger;
+
+var calctotalPrice = parseFloat(totalPrice.originalPrice) + parseFloat(totalPrice.exteriorPrice) + parseFloat(totalPrice.seatPrice);
+
+totalPrice.totalPrice = calctotalPrice;
+
+carPrice.setText("Total Cost: " + calctotalPrice + ",00€");

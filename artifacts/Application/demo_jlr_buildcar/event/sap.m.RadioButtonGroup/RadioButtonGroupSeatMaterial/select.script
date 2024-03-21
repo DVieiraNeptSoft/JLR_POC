@@ -1,0 +1,34 @@
+switch (this.getSelectedButton().getText()) {
+
+    case 'DuoLeather':
+        //execute code block for 'vegan'
+        console.log('DuoLeather');
+
+        filterTableBuilder.seatMaterial = "DuoLeather";
+        generateBuilderConfigSeatMaterialColour(filterTableBuilder, this.getSelectedButton().getText());
+        generateBuilderData(filterTableBuilder, 'Interior', 'Seats')
+        break;
+
+    case 'Windsor Performance':
+        //execute code block 'gluten-free'
+        console.log('Windsor Performance');
+
+        filterTableBuilder.seatMaterial = "Windsor Performance";
+        generateBuilderConfigSeatMaterialColour(filterTableBuilder, this.getSelectedButton().getText());
+        generateBuilderData(filterTableBuilder, 'Interior', 'Seats')
+        break;
+        
+    case 'Windsor Sport':
+        //execute code block 'vegetarian'
+        console.log('Windsor Sport');
+
+        filterTableBuilder.seatMaterial = "Windsor Sport";
+        generateBuilderConfigSeatMaterialColour(filterTableBuilder, this.getSelectedButton().getText());
+        generateBuilderData(filterTableBuilder, 'Interior', 'Seats')
+        break;
+
+    default:
+        //Default catches all cases not specified above
+        console.log('Generic Error');
+        break;
+}

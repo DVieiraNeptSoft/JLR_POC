@@ -1,0 +1,59 @@
+{
+	"id": "38dc7d68-3e52-ee11-9937-0022489a57c0",
+	"createdAt": "2023-09-13T14:04:10.950Z",
+	"createdBy": "daniel.vieira@neptune-software.com",
+	"fields": [
+		{
+			"id": "09df43a1-61af-43af-a276-4c171d9e492d",
+			"fieldName": "carModel",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "712ef959-c182-497a-cf53-ab8021182b32",
+			"fieldName": "exteriorColour",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "34cb9830-45ac-4fef-d3c7-be7990318931",
+			"fieldName": "seatColour",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "9c7e3d90-bd77-4096-85ee-1f7ab0f7f074",
+			"fieldName": "seatMaterial",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "7ae6d0e0-9d6d-4ea6-cf32-62eddf3f94bf",
+			"fieldName": "interiorColour",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		},
+		{
+			"id": "b755b63b-7599-4212-8953-e7c76b6d814c",
+			"fieldName": "interiorMaterial",
+			"fieldType": "text",
+			"isUnique": false,
+			"isNullable": true
+		}
+	],
+	"indices": [],
+	"foreignKeys": [],
+	"name": "jaguarcarsmodel_available",
+	"description": null,
+	"ver": "24.3.21.1549",
+	"enableAudit": true,
+	"includeDataInPackage": true,
+	"package": "081fbf84-374e-ee11-9937-0022489a57c0",
+	"rolesRead": [],
+	"rolesWrite": []
+}
